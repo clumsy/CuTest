@@ -1,0 +1,11 @@
+**HOW TO USE**
+
+This is a single-header port of CuTest testing library.
+Add the header file to you test sources as needed 
+and _#define CUTEST_IMPLEMENTATION_ in one of your source files.
+
+See _AllTests.c_ and _CuTestSample.c_ for more details.
+
+**LICENSING**
+
+For details on licensing see _LICENSE_.
